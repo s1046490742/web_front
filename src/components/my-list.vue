@@ -62,6 +62,7 @@ export default {
     width:100%;
   }
   ul{
+    margin: 0 auto;
     width:1.4rem;
     height:1.6666666666666667rem;
     border:0.006666666666666667rem solid #000;
